@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "color": {
-        "value": "#F5CD5C"
+        "value": "#fff"
       },
       "shape": {
         "type": "circle",
